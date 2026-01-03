@@ -1,0 +1,6 @@
+Explain this problem from the fundamental principles.
+how you think in that direction .
+what all solutions you need to try in your head .
+also explain the thought process that lead you here .
+i have attached the problem statement .
+donot write the code .
